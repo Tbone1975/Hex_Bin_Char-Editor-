@@ -155,7 +155,7 @@ void MainWindow::on_Open_Button_clicked()
     ui->label->setText(Current_File_Name);
 }
 
-/////
+
 
 ///FOR THE SAVE BUTTON////////////////
 void MainWindow::on_Save_Button_clicked()
