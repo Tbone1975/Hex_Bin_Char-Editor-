@@ -1,4 +1,4 @@
-##A Hex/Bin/Char File Editor created on QT Creator using C++ programing language
+A Hex/Bin/Char File Editor created on QT Creator using C++ programing language
 
 ### Running the Hex/Bin/Char Editor (Executable Version):
 
